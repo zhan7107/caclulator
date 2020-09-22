@@ -1,0 +1,17 @@
+{
+    "name": "calculator",
+    "description": "",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "socket.io": "latest"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    }
+  }
